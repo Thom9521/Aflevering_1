@@ -1,6 +1,6 @@
 package thom9521;
 
-/*Denne java class indeholder i forskellige koder, som illustrerer noget af det som jeg har lært i løbet af
+/*Denne java class indeholder forskellige koder, som illustrerer noget af det som jeg har lært i løbet af
 min tid som datamatiker-studerende. */
 
 import java.util.Scanner;
