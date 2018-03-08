@@ -34,7 +34,7 @@ public class MineMetoder {
         System.out.println();
 
         int rigtigeSvar = 2; //Deklarer og initialiserer variablen
-        System.out.println("Hvad er kvadratrodden af 8?"); //Tekst
+        System.out.println("Hvad er kubikroden af 8?"); //Tekst
         double svar = input.nextDouble(); //Input så man kan indtaste et svar
 
         if(svar == rigtigeSvar){ //If svar er = det rigtige svar bliver nedenfor udskrevet
@@ -46,7 +46,7 @@ public class MineMetoder {
 
         //Et loop, som får linje 34-42 til at gå igen, hvis input svaret ikke er = det rigtige svar
         while(svar != rigtigeSvar) {
-            System.out.println("Hvad er kvadratrodden af 8?");
+            System.out.println("Hvad er kubikroden af 8?");
             svar = input.nextDouble();
 
             if(svar == rigtigeSvar){
